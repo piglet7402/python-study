@@ -42,7 +42,7 @@
 >>##### [random함수](https://github.com/bsy3764/Python_Study/blob/main/day02/random.py)
 ---
 <details>
-<summary>day01</summary>
+<summary>문자열</summary>
 <div markdown="1">
 
 >## [day1](https://github.com/bsy3764/Python_Study/blob/main/day01)
@@ -50,11 +50,13 @@
 >>##### [문자열 함수](https://github.com/bsy3764/Python_Study/blob/main/day01/str.py)
 >>##### [문자열 연산자](https://github.com/bsy3764/Python_Study/blob/main/day01/str1.py)
 >>##### [문자열 포맷팅](https://github.com/bsy3764/Python_Study/blob/main/day01/str2.py)
->>##### [함수 선언](https://github.com/bsy3764/Python_Study/blob/main/day01/func.py)
->>##### [boolean 선언](https://github.com/bsy3764/Python_Study/blob/main/day01/bool.py)
->>##### [비교](https://github.com/bsy3764/Python_Study/blob/main/day01/is.py)
->>##### [변수 값 바꾸기](https://github.com/bsy3764/Python_Study/blob/main/day01/swap.py)
->>##### [마무리 문제](https://github.com/bsy3764/Python_Study/blob/main/day01/test.py)
+>>##### [문자열 검색 관련 메서드](https://github.com/bsy3764/Python_Study/blob/main/day02/str_search.py)
+>>##### [문자열 편집 관련 메서드](https://github.com/bsy3764/Python_Study/blob/main/day02/str_strip.py)
+>>##### [문자열 정렬 메서드](https://github.com/bsy3764/Python_Study/blob/main/day02/str_sort.py)
+>>##### [문자열 분리 및 결합 메서드](https://github.com/bsy3764/Python_Study/blob/main/day02/str_split.py)
+>>##### [문자열 판별 메서드](https://github.com/bsy3764/Python_Study/blob/main/day02/str_is.py)
+>>##### [문자열 0으로 채우기](https://github.com/bsy3764/Python_Study/blob/main/day02/str_0.py)
+>>##### [문자열 서식(포맷팅) 메서드 추가 내용](https://github.com/bsy3764/Python_Study/blob/main/day02/str_format.py))
 
 </div>
 </details>
