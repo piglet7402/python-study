@@ -45,7 +45,6 @@
 <summary>문자열</summary>
 <div markdown="1">
 
->## [day1](https://github.com/bsy3764/Python_Study/blob/main/day01)
 >>##### [문자열 출력](https://github.com/bsy3764/Python_Study/blob/main/day01/print.py)
 >>##### [문자열 함수](https://github.com/bsy3764/Python_Study/blob/main/day01/str.py)
 >>##### [문자열 연산자](https://github.com/bsy3764/Python_Study/blob/main/day01/str1.py)
