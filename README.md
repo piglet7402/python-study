@@ -42,7 +42,7 @@
 >>##### [random함수](https://github.com/bsy3764/Python_Study/blob/main/day02/random.py)
 ---
 <details>
-<summary>day01</summary>
+  <h2><summary>day01</summary></h2>
 <div markdown="1">
 
 >## [day1](https://github.com/bsy3764/Python_Study/blob/main/day01)
