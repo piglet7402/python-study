@@ -41,7 +41,7 @@
 >>##### [enumerate](https://github.com/bsy3764/Python_Study/blob/main/day02/enumerate.py)
 >>##### [random함수](https://github.com/bsy3764/Python_Study/blob/main/day02/random.py)
 ---
-
+<details>
 <summary>day01</summary>
 <div markdown="1">
 
@@ -57,3 +57,4 @@
 >>##### [마무리 문제](https://github.com/bsy3764/Python_Study/blob/main/day01/test.py)
 
 </div>
+</details>
