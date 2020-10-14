@@ -98,8 +98,7 @@
 >>##### [문자열 판별 메서드](https://github.com/bsy3764/Python_Study/blob/main/day02/str_is.py)
 >>##### [문자열 0으로 채우기](https://github.com/bsy3764/Python_Study/blob/main/day02/str_0.py)
 >>##### [문자열 서식(포맷팅) 메서드 추가 내용](https://github.com/bsy3764/Python_Study/blob/main/day02/str_format.py))
-
-=======
+---
 <details>
 <summary>문자열</summary>
 <div markdown="1">
