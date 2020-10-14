@@ -41,7 +41,6 @@
 >>##### [enumerate](https://github.com/bsy3764/Python_Study/blob/main/day02/enumerate.py)
 >>##### [random함수](https://github.com/bsy3764/Python_Study/blob/main/day02/random.py)
 ---
-<<<<<<< HEAD
 >## [day3](https://github.com/bsy3764/Python_Study/blob/main/day03)
 >>##### [심볼 테이블](https://github.com/bsy3764/Python_Study/blob/main/day03/symbol_table.py)
 >>##### [람다 함수](https://github.com/bsy3764/Python_Study/blob/main/day03/Lambda.py)
